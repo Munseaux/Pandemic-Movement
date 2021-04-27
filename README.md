@@ -1,5 +1,18 @@
 # team-matplotlib.pyplot
-project repo
 
-PROJECT 1 - TEST 
-Hello
+TEAM MATPLOTLIB.PYPLOT is 
+Lucas, Gloria, and Katie
+
+Ideas: pitchfork reviews. 
+
+wine database - seems like a good dataset for some silly data analysis. 
+
+
+
+
+
+
+
+
+
+
