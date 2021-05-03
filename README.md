@@ -21,6 +21,13 @@ historical data analysis -- YoY. compare different kinds of places. state by sta
 
 Clean and merge data -- figure out what's going on with the NaN stuff. drop columns that dont matter. 
 
+6-8 visualizations: 
+
+state by state breakdown for each thingy :line graphs
+
+YoY compraisons. 
+
+
 
 
 
