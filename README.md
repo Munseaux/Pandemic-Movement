@@ -20,20 +20,23 @@ Data Limitations:
 
 
 
-Hypotheses --   
+Hypotheses:  
 -An increase in Coronavirus cases will result in a decrease in the number of visitors at parks and a decline in the usage of the transit system.  
 -Grocery stores and pharmacies were still essential outings during the pandemic and therefore did not experience as great of a decrease in movement.  
 -The more mobility people had in an area directly influenced the number of COVID-19 cases.
 
 
 
-Clean data plan:
-Merge -> drop columns -> print to csv
+Summary:  
+-There is a statistically significant relationship between states and movement data.   
+-Grocery stores and pharmacies showed a smaller retraction in number of visitors during the pandemic.   
+-The pandemic had a significant effect on all types of movement data except parks, which saw a large upswing. This upswing can be explained by a seasonal swing, and by people’s willingness to engage in outdoor activities compared to indoor activities during the pandemic.   
 
-Analysis: 
-historical data analysis -- YoY. compare different kinds of places. state by state breakdown. 
 
-Clean and merge data -- figure out what's going on with the NaN stuff. drop columns that dont matter. 
+Further Considerations:  
+-Adding a multi-variable linear regression using case data would be interesting. That way we could make a predictive model that would project future cases based on movement data.   
+-Finding additional data sources to provide 2019 data for a more realistic baseline and further year comparisons.   
+-Drilling down into county-level data for a more complete look at the rural/urban divide that exists during the pandemic.   
 
 
 
