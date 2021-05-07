@@ -1,5 +1,5 @@
 # team-matplotlib.pyplot
-Mobility Changes in the U.S during the covid-19 Pandemic 2020-2021
+Mobility Changes in the U.S during the COVID-19 Pandemic 2020-2021
 
 TEAM MATPLOTLIB.PYPLOT: Lucas Munson, Katie  Blood, Gloria Evans
 
@@ -39,8 +39,11 @@ Hypotheses:
 
 ![Workplaces for April 2020   April 2021](https://user-images.githubusercontent.com/77282780/117511483-c5c77500-af5b-11eb-927c-ad256b40b05d.png)
 
+![state_Grocery And Pharmacy Percent Change From Baseline](https://user-images.githubusercontent.com/77282780/117512146-0a074500-af5d-11eb-9502-8058ad8b8e92.png)
 
+![state_Retail And Recreation Percent Change From Baseline](https://user-images.githubusercontent.com/77282780/117512180-1ab7bb00-af5d-11eb-90bf-5c31a72b384a.png)
 
+![Heat Map](https://user-images.githubusercontent.com/77282780/117512232-3ae77a00-af5d-11eb-815c-60684d4cbf6c.png)
 
 
 Summary:  
