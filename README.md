@@ -18,7 +18,7 @@ Data Limitations:
 
 Hypotheses:  
 -Grocery stores and pharmacies were still essential outings during the pandemic and therefore did not experience as great of a decrease in movement in comparison to other outings (retail and recreation).
--We believe that all categories analyzed will have a decrease of some magnitude except for parks due to their ability for safe social distancing.
+-We believe that all categories analyzed will have a decrease of some magnitude except for parks due to their ability for safe social distancing.  
 -There is a statistical difference in the data depending on which state it was collected in.
 
 
@@ -72,15 +72,4 @@ Further Considerations:
 -Adding a multi-variable linear regression using case data would be interesting. That way we could make a predictive model that would project future cases based on movement data.   
 -Finding additional data sources to provide 2019 data for a more realistic baseline and further year comparisons.   
 -Drilling down into county-level data for a more complete look at the rural/urban divide that exists during the pandemic.   
-
-
-
-
-
-
-
-
-
-
-
 
