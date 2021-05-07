@@ -11,9 +11,21 @@ These Community Mobility Reports aim to provide insights into what has changed i
 
 The Community Mobility Reports were developed to be helpful while adhering to our stringent privacy protocols and protecting people’s privacy. No personally identifiable information, such as an individual’s location, contacts or movement, will be made available at any point.
 
+Data Limitations:  
+-The data used only goes back to the beginning of the pandemic, roughly February 2020.  
+-The baseline used is five weeks from the beginning of the year 2020. There is no way to determine if the baseline is a representative week.   
+-Parks also are a place that fluctuates based on the time of year. Visitation will be higher during the warmer months.   
+-This dataset also includes weekends and holidays leading to some decreases in data. 
 
-Hypothesis -- 
-things have slowed down because pandemic. However, food and medicine visits are not as impacted by the pandemic. Also parks not as impacted by pandemic. We also have over a year of data so we can look at historical data. 
+
+
+
+Hypotheses --   
+-An increase in Coronavirus cases will result in a decrease in the number of visitors at parks and a decline in the usage of the transit system.  
+-Grocery stores and pharmacies were still essential outings during the pandemic and therefore did not experience as great of a decrease in movement.  
+-The more mobility people had in an area directly influenced the number of COVID-19 cases.
+
+
 
 Clean data plan:
 Merge -> drop columns -> print to csv
