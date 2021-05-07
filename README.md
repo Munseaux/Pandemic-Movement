@@ -1,9 +1,7 @@
 # team-matplotlib.pyplot
-
-TEAM MATPLOTLIB.PYPLOT is 
-Lucas, Gloria, and Katie
-
 Mobility Changes in the U.S during the covid-19 Pandemic 2020-2021
+
+TEAM MATPLOTLIB.PYPLOT: Lucas Munson, Katie  Blood, Gloria Evans
 
 Data Source: https://www.google.com/covid19/mobility/ 
 
@@ -16,8 +14,6 @@ Data Limitations:
 -The baseline used is five weeks from the beginning of the year 2020. There is no way to determine if the baseline is a representative week.   
 -Parks also are a place that fluctuates based on the time of year. Visitation will be higher during the warmer months.   
 -This dataset also includes weekends and holidays leading to some decreases in data. 
-
-
 
 
 Hypotheses:  
