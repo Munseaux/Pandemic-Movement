@@ -1,4 +1,4 @@
-# team-matplotlib.pyplot
+# Pandemic Mobility Data
 Mobility Changes in the U.S during the COVID-19 Pandemic 2020-2021
 
 TEAM MATPLOTLIB.PYPLOT: Lucas Munson, Katie  Blood, Gloria Evans
