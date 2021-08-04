@@ -1,5 +1,6 @@
 # Pandemic Mobility Data
 Mobility Changes in the U.S during the COVID-19 Pandemic 2020-2021
+
 BY: Lucas Munson, Katie  Blood, Gloria Evans
 
 Data Source: https://www.google.com/covid19/mobility/ 
